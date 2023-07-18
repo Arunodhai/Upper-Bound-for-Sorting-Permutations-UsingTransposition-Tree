@@ -10,3 +10,6 @@ Transforming permutations with several operations has been extensively studied w
 
 ## Result and Analysis
 <img width="445" alt="Screenshot 2023-07-18 at 10 43 49 AM" src="https://github.com/Arunodhai/Upper-Bound-for-Sorting-Permutations-UsingTransposition-Tree/assets/60264218/e5b1fd1c-81de-41a9-90c2-5ca5dc080a50">
+
+## Conclusion
+We compared the upper bound values for all full binary trees of sizes up to n = 255. It was theoretically demonstrated that δ* is actually tighter than δ’, β, and γ for a full binary tree. We implemented the algorithms and practically proved that δ* is indeed tighter than δ’, β, and γ for a full binary tree. The execution results are shown in Table 1.
